@@ -1,4 +1,4 @@
-# Splunk Log Analysis and Threat Hunting Investigation
+## Splunk Log Analysis and Threat Hunting Investigation
 
 ## Overview
 
